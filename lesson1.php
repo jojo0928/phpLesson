@@ -1,6 +1,6 @@
 <?php
 
-echo 'aywei!';
+echo 'aywei!aaaa';
 
 
 ?>
