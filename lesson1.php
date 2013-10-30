@@ -1,6 +1,8 @@
 <?php
 
-echo 'test';
+echo 'aywei!aaaa';
+echo 'hi,helloooooo～～～';
+
 
 
 ?>
