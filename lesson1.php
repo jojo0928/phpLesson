@@ -1,6 +1,6 @@
 <?php
 
-echo 'lesson1aaaaaaaaaaaa';
+echo 'aywei!';
 
 
 ?>
